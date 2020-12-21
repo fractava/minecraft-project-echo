@@ -2,7 +2,7 @@
 
 This project packages [Project Echo](https://gitlab.com/alwus/project-echo) for use in MultiMC using [Modsman](https://github.com/sargunv/modsman/) to download the mods from CurseForge instead of distributing them directly.
 
-This example pack consists of all the mods, their dependencies, and the Faithful texture pack. Import this URL into MultiMC to check it out for yourself:
+This example pack consists of all the mods and their dependencies. Import this URL into MultiMC to check it out for yourself:
 
 ```
 https://github.com/fractava/minecraft-project-echo/archive/master.zip
