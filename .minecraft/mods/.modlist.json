@@ -1,110 +1,556 @@
 {
   "config": {
     "required_game_versions": [
-      "1.15"
+      "1.12.2"
     ],
-    "excluded_game_versions": [
-      "Forge",
-      "Rift"
-    ]
+    "excluded_game_versions": [],
+    "release_cycle": "BETA"
   },
   "mods": [
     {
-      "project_id": 313219,
-      "project_name": "Health Overlay (Fabric)",
-      "file_id": 2908962,
-      "file_name": "HealthOverlay-1.15.2-2.3.10.jar",
+      "project_id": 223891,
+      "project_name": "MalisisDoors",
+      "file_id": 2526674,
+      "file_name": "malisisdoors-1.12.2-7.3.0.jar",
       "pinned": false
     },
     {
-      "project_id": 319036,
-      "project_name": "Chunk Activator",
-      "file_id": 2929539,
-      "file_name": "chunk-activator-2.0.0+mc1.15.2.jar",
+      "project_id": 227083,
+      "project_name": "Baubles",
+      "file_id": 2518667,
+      "file_name": "Baubles-1.12-1.5.2.jar",
       "pinned": false
     },
     {
-      "project_id": 319741,
-      "project_name": "Suppress Unknown Item",
-      "file_id": 2927636,
-      "file_name": "suppress-unknown-item-2.0.1+mc1.15.2.jar",
+      "project_id": 285473,
+      "project_name": "Rikmulds Core Mod",
+      "file_id": 2569880,
+      "file_name": "RikMuldsCore_1.3.3.jar",
       "pinned": false
     },
     {
-      "project_id": 319409,
-      "project_name": "Composable Automation",
-      "file_id": 2930631,
-      "file_name": "composable-automation-0.8.0+mc1.15.2.jar",
+      "project_id": 254602,
+      "project_name": "Tesla Core Lib",
+      "file_id": 2891841,
+      "file_name": "tesla-core-lib-1.12.2-1.0.17.jar",
       "pinned": false
     },
     {
-      "project_id": 318225,
-      "project_name": "Proletarian",
-      "file_id": 2927907,
-      "file_name": "proletarian-1.0.0+mc1.15.2.jar",
+      "project_id": 271384,
+      "project_name": "CoFH World",
+      "file_id": 2920434,
+      "file_name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
       "pinned": false
     },
     {
-      "project_id": 255871,
-      "project_name": "Level Up HP",
-      "file_id": 2926823,
-      "file_name": "level-up-hp-5.0.0+mc1.15.2.jar",
+      "project_id": 270789,
+      "project_name": "Redstone Flux",
+      "file_id": 2920436,
+      "file_name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
       "pinned": false
     },
     {
-      "project_id": 318894,
-      "project_name": "Data Loader",
-      "file_id": 2927042,
-      "file_name": "data-loader-2.0.0+mc1.15.2.jar",
+      "project_id": 301429,
+      "project_name": "Straw Golem",
+      "file_id": 2739810,
+      "file_name": "strawgolem-1.4.1.jar",
       "pinned": false
     },
     {
-      "project_id": 318163,
-      "project_name": "I Am Very Smart",
-      "file_id": 2929499,
-      "file_name": "i-am-very-smart-2.0.0+mc1.15.2.jar",
+      "project_id": 32274,
+      "project_name": "JourneyMap",
+      "file_id": 2916002,
+      "file_name": "journeymap-1.12.2-5.7.1.jar",
       "pinned": false
     },
     {
-      "project_id": 318684,
-      "project_name": "Beach Slimes",
-      "file_id": 2927655,
-      "file_name": "beach-slimes-2.0.0+mc1.15.2.jar",
+      "project_id": 286710,
+      "project_name": "Garbage Bins",
+      "file_id": 2675062,
+      "file_name": "GarbageBins-1.1.1.jar",
       "pinned": false
     },
     {
-      "project_id": 317548,
-      "project_name": "Always Drop Loot",
-      "file_id": 2927622,
-      "file_name": "always-drop-loot-4.0.0+mc1.15.2.jar",
+      "project_id": 51195,
+      "project_name": "Railcraft",
+      "file_id": 2687757,
+      "file_name": "railcraft-12.0.0.jar",
       "pinned": false
     },
     {
-      "project_id": 308769,
-      "project_name": "Fabric Language Kotlin",
-      "file_id": 2843142,
-      "file_name": "fabric-language-kotlin-1.3.61+build.1.jar",
+      "project_id": 231382,
+      "project_name": "Brandon\u0027s Core",
+      "file_id": 3051539,
+      "file_name": "BrandonsCore-1.12.2-2.4.19.214-universal.jar",
       "pinned": false
     },
     {
-      "project_id": 318410,
-      "project_name": "Lead Villagers",
-      "file_id": 2927670,
-      "file_name": "lead-villagers-2.0.0+mc1.15.2.jar",
+      "project_id": 230497,
+      "project_name": "Chameleon",
+      "file_id": 2450900,
+      "file_name": "Chameleon-1.12-4.1.3.jar",
       "pinned": false
     },
     {
-      "project_id": 306612,
-      "project_name": "Fabric API",
-      "file_id": 2898702,
-      "file_name": "fabric-api-0.5.1+build.294-1.15.jar",
+      "project_id": 228815,
+      "project_name": "OpenModsLib",
+      "file_id": 2699055,
+      "file_name": "OpenModsLib-1.12.2-0.12.2.jar",
       "pinned": false
     },
     {
-      "project_id": 308702,
-      "project_name": "Mod Menu (Fabric)",
-      "file_id": 2902148,
-      "file_name": "modmenu-1.10.2+build.32.jar",
+      "project_id": 69163,
+      "project_name": "Thermal Expansion",
+      "file_id": 2926431,
+      "file_name": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 69162,
+      "project_name": "CoFH Core",
+      "file_id": 2920433,
+      "file_name": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 223565,
+      "project_name": "Draconic Evolution",
+      "file_id": 3051542,
+      "file_name": "Draconic-Evolution-1.12.2-2.3.27.353-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 242818,
+      "project_name": "CodeChicken Lib 1.8.+",
+      "file_id": 2779848,
+      "file_name": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228832,
+      "project_name": "Guide-API",
+      "file_id": 2645992,
+      "file_name": "Guide-API-1.12-2.1.8-63.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 284794,
+      "project_name": "Even More Explosives Mod",
+      "file_id": 2518191,
+      "file_name": "More+Explosives+V1.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 224641,
+      "project_name": "RFTools",
+      "file_id": 2861573,
+      "file_name": "rftools-1.12-7.73.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 253043,
+      "project_name": "WanionLib",
+      "file_id": 3064112,
+      "file_name": "WanionLib-1.12.2-2.5.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 225194,
+      "project_name": "AE2 Stuff",
+      "file_id": 2491032,
+      "file_name": "ae2stuff-0.7.0.4-mc1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 268560,
+      "project_name": "Mekanism",
+      "file_id": 2835175,
+      "file_name": "Mekanism-1.12.2-9.8.3.390.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 237102,
+      "project_name": "FTB Utilities",
+      "file_id": 3010492,
+      "file_name": "FTBUtilities-5.4.1.130.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 237366,
+      "project_name": "ArmorPlus",
+      "file_id": 2952741,
+      "file_name": "armorplus-1.12.2-11.28.0.69.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 237167,
+      "project_name": "FTB Library",
+      "file_id": 2985811,
+      "file_name": "FTBLib-5.4.7.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 223896,
+      "project_name": "MalisisCore",
+      "file_id": 2680892,
+      "file_name": "malisiscore-1.12.2-6.5.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 268495,
+      "project_name": "Simple Storage Network",
+      "file_id": 2990638,
+      "file_name": "SimpleStorageNetwork-1.12.2-1.7.11.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 226254,
+      "project_name": "NuclearCraft",
+      "file_id": 3074246,
+      "file_name": "NuclearCraft-2.18y-1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 238222,
+      "project_name": "Just Enough Items (JEI)",
+      "file_id": 3040523,
+      "file_name": "jei_1.12.2-4.16.1.301.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 286660,
+      "project_name": "MrCrayfish\u0027s Vehicle Mod",
+      "file_id": 2967287,
+      "file_name": "vehicle-mod-0.44.1-1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 235279,
+      "project_name": "Chisel",
+      "file_id": 2915375,
+      "file_name": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 238050,
+      "project_name": "Rope Bridge",
+      "file_id": 2465994,
+      "file_name": "ropebridge-1.12-2.0.7.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 250277,
+      "project_name": "Extreme Reactors 2",
+      "file_id": 2722271,
+      "file_name": "ExtremeReactors-1.12.2-0.4.5.67.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 70496,
+      "project_name": "BdLib",
+      "file_id": 2518031,
+      "file_name": "bdlib-1.14.3.12-mc1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 233029,
+      "project_name": "Vampirism - Become a vampire!",
+      "file_id": 2890062,
+      "file_name": "Vampirism-1.12.2-1.6.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 268250,
+      "project_name": "Immersive Petroleum",
+      "file_id": 2544919,
+      "file_name": "immersivepetroleum-1.12.2-1.1.9.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 222880,
+      "project_name": "Thermal Foundation",
+      "file_id": 2926428,
+      "file_name": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 69118,
+      "project_name": "Morpheus",
+      "file_id": 2664449,
+      "file_name": "Morpheus-1.12.2-3.5.106.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 223852,
+      "project_name": "Storage Drawers",
+      "file_id": 2952606,
+      "file_name": "StorageDrawers-1.12.2-5.4.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 229380,
+      "project_name": "Inventory Pets",
+      "file_id": 2966477,
+      "file_name": "inventorypets-1.12-2.0.6.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 74924,
+      "project_name": "Mantle",
+      "file_id": 2713386,
+      "file_name": "Mantle-1.12-1.3.3.55(1).jar",
+      "pinned": false
+    },
+    {
+      "project_id": 289380,
+      "project_name": "Obfuscate",
+      "file_id": 2916310,
+      "file_name": "obfuscate-0.4.2-1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 248055,
+      "project_name": "TheDragonLib",
+      "file_id": 2580332,
+      "file_name": "thedragonlib-1.12.2-5.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228404,
+      "project_name": "Actually Additions",
+      "file_id": 3117927,
+      "file_name": "ActuallyAdditions-1.12.2-r152.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 227049,
+      "project_name": "Iron Backpacks",
+      "file_id": 2564573,
+      "file_name": "IronBackpacks-1.12.2-3.0.8-12.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 223794,
+      "project_name": "Applied Energistics 2",
+      "file_id": 2747063,
+      "file_name": "appliedenergistics2-rv6-stable-7.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 245453,
+      "project_name": "Environmental Tech",
+      "file_id": 2691536,
+      "file_name": "environmentaltech-1.12.2-2.0.20.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 227443,
+      "project_name": "Thermal Dynamics",
+      "file_id": 2920505,
+      "file_name": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 55438,
+      "project_name": "MrCrayfish\u0027s Furniture Mod",
+      "file_id": 2749993,
+      "file_name": "furniture-6.3.1-1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 221857,
+      "project_name": "Pam\u0027s HarvestCraft",
+      "file_id": 2904825,
+      "file_name": "Pam\u0027s+HarvestCraft+1.12.2zg.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 74072,
+      "project_name": "Tinkers Construct",
+      "file_id": 2902483,
+      "file_name": "TConstruct-1.12.2-2.13.0.183(1).jar",
+      "pinned": false
+    },
+    {
+      "project_id": 233105,
+      "project_name": "McJtyLib",
+      "file_id": 2745846,
+      "file_name": "mcjtylib-1.12-3.5.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 225643,
+      "project_name": "Botania",
+      "file_id": 2846950,
+      "file_name": "Botania+r1.10-363.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 64578,
+      "project_name": "Ender IO",
+      "file_id": 3124452,
+      "file_name": "EnderIO-1.12.2-5.2.66.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 244451,
+      "project_name": "ICBM - Classic",
+      "file_id": 2661985,
+      "file_name": "ICBM-classic-1.12.2-3.3.0b63.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 229664,
+      "project_name": "Animus",
+      "file_id": 2888473,
+      "file_name": "Animus-1.12-2.1.7.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 231868,
+      "project_name": "EnderCore",
+      "file_id": 2972849,
+      "file_name": "EnderCore-1.12.2-0.5.76.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 248453,
+      "project_name": "Shadowfacts\u0027 Forgelin",
+      "file_id": 2785465,
+      "file_name": "Forgelin-1.8.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 247921,
+      "project_name": "ZeroCore 2",
+      "file_id": 2670570,
+      "file_name": "zerocore-1.12.2-0.1.2.8.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 229060,
+      "project_name": "iChunUtil",
+      "file_id": 2801262,
+      "file_name": "iChunUtil-1.12.2-7.2.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 245480,
+      "project_name": "ValkyrieLib",
+      "file_id": 2691542,
+      "file_name": "valkyrielib-1.12.2-2.0.20.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 220318,
+      "project_name": "Biomes O\u0027 Plenty",
+      "file_id": 2715506,
+      "file_name": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 224791,
+      "project_name": "Blood Magic ",
+      "file_id": 2822288,
+      "file_name": "BloodMagic-1.12.2-2.4.3-105.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 229084,
+      "project_name": "Portal Gun",
+      "file_id": 2684033,
+      "file_name": "PortalGun-1.12.2-7.1.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 231951,
+      "project_name": "Immersive Engineering",
+      "file_id": 2974106,
+      "file_name": "ImmersiveEngineering-0.12-98.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 250363,
+      "project_name": "AutoRegLib",
+      "file_id": 2746011,
+      "file_name": "AutoRegLib-1.3-32.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 64760,
+      "project_name": "Security Craft",
+      "file_id": 3109599,
+      "file_name": "[1.12.2]+SecurityCraft+v1.8.20.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 60028,
+      "project_name": "Aquaculture 2",
+      "file_id": 2659258,
+      "file_name": "Aquaculture-1.12.2-1.6.8.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 267602,
+      "project_name": "ConnectedTexturesMod",
+      "file_id": 2915363,
+      "file_name": "CTM-MC1.12.2-1.0.2.31.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 266515,
+      "project_name": "Industrial Foregoing",
+      "file_id": 2745321,
+      "file_name": "industrialforegoing-1.12.2-1.12.13-237.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228756,
+      "project_name": "Iron Chests",
+      "file_id": 2747935,
+      "file_name": "ironchest-1.12.2-7.0.72.847.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 253449,
+      "project_name": "Hwyla",
+      "file_id": 2568751,
+      "file_name": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 261348,
+      "project_name": "Avaritia 1.1x",
+      "file_id": 2660801,
+      "file_name": "Avaritia-1.12.2-3.3.0.33-universal.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228816,
+      "project_name": "OpenBlocks",
+      "file_id": 2699056,
+      "file_name": "OpenBlocks-1.12.2-1.8.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 243121,
+      "project_name": "Quark",
+      "file_id": 2924091,
+      "file_name": "Quark-r1.6-179.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 250832,
+      "project_name": "OpenBlocks Elevator",
+      "file_id": 2845365,
+      "file_name": "ElevatorMod-1.12.2-1.3.14.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 237701,
+      "project_name": "ReAuth",
+      "file_id": 2560638,
+      "file_name": "reauth-3.6.0.jar",
       "pinned": false
     }
   ]
